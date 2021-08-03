@@ -1,5 +1,5 @@
 /* PrismJS 1.24.1
-https://prismjs.com/download.html#themes=prism-okaidia&languages=markup+css+clike+javascript&plugins=line-numbers+show-language+normalize-whitespace+toolbar */
+https://prismjs.com/download.html#themes=prism-okaidia&languages=markup+css+clike+javascript&plugins=line-numbers+file-highlight+show-language+normalize-whitespace+toolbar */
 /**
  * okaidia theme for JavaScript, CSS and HTML
  * Loosely based on Monokai textmate theme by http://www.monokai.nl/
@@ -230,3 +230,4 @@ https://prismjs.com/download.html#themes=prism-okaidia&languages=markup+css+clik
 	 text-decoration: none;
  }
 
+ 
